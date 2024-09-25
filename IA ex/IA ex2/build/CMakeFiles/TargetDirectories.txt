@@ -1,0 +1,3 @@
+/Users/giovanniorzalesi/Desktop/IA ex2/build/CMakeFiles/p2.dir
+/Users/giovanniorzalesi/Desktop/IA ex2/build/CMakeFiles/edit_cache.dir
+/Users/giovanniorzalesi/Desktop/IA ex2/build/CMakeFiles/rebuild_cache.dir

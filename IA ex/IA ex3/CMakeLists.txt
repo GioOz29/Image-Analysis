@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(p3)
+find_package(OpenCV REQUIRED)
+add_executable(p3 ex3.cpp)
+target_link_libraries(p3 ${OpenCV_LIBS})

@@ -1,0 +1,3 @@
+/Users/giovanniorzalesi/Desktop/IA proj/build/CMakeFiles/p.dir
+/Users/giovanniorzalesi/Desktop/IA proj/build/CMakeFiles/edit_cache.dir
+/Users/giovanniorzalesi/Desktop/IA proj/build/CMakeFiles/rebuild_cache.dir
